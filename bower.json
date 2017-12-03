@@ -1,0 +1,23 @@
+{
+  "name": "imovie",
+  "homepage": "https://github.com/dmiriguo/web_movie",
+  "authors": [
+    "guocc <806715216@qq.com>"
+  ],
+  "description": "test",
+  "main": "",
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "jade"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
